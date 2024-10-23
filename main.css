@@ -39,5 +39,23 @@ h1{
     display: inline-block;
     vertical-align: top;
     height: 450pt;
-    margin-right: 84pt;
+    margin-right: 49pt;
+    margin-left: 49pt;
+}
+.thirdmodule{
+    border-style: double;
+    margin: 15pt;
+    padding: 19pt;
+    width: 199pt;
+    background: linear-gradient(rgb(118, 182, 246),rgb(254, 130, 130)); 
+    display: inline-block;
+    vertical-align: top;
+    height: 450pt;
+    margin-right: 105pt;
+    margin-left: 105pt;
+}
+.mainphoto{
+    text-align: center;
+    width: 480px;
+    height: 270px;
 }
